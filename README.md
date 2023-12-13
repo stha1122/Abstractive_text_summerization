@@ -11,8 +11,8 @@ Abstractive summarization is the task of generating a short summary that capture
 </p>
 T5 stands for Text-to-Text Transfer Transformer, which is a neural network model that can handle various natural language processing tasks by converting both the input and the output into text. For example, T5 can perform translation by taking a sentence in one language as input and producing a sentence in another language as output. Similarly, T5 can perform abstractive summarization by taking a long document as input and producing a summary as output.
 <br/>
-
-Blog: https://medium.com/@shwethashwe1144/from-text-to-summary-a-deep-dive-into-t5-transformer-4788527f0531
+ 
+The complete article with code and results can be found on [Medium](https://medium.com/@shwethashwe1144/from-text-to-summary-a-deep-dive-into-t5-transformer-4788527f0531)
 
 ## Project Snapshots
 
